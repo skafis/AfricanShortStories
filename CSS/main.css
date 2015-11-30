@@ -1,0 +1,77 @@
+body {
+	color: #888;
+	font: 300 16px/22px  Lobster, Pacifico, "Times new roman" "" ;
+}
+
+h1,
+h3 {
+	text-align: center;
+	color: green;
+	text-decoration: underline;
+}
+
+h3,
+p{
+
+	color: #555;
+}
+
+.main {
+	width: auto;
+	border-style: ridge;
+	background-color: lightblue;
+	margin-bottom: 20px;
+
+}
+.grid {
+	padding-left: 40px;
+	padding-right: 20px;
+}
+
+.story{
+	float: left;
+	border-spacing: 30px
+
+}
+.btn {
+	border-radius: 10px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.btn-alt {
+	border: 25px solid #dfe2e5;
+	padding: 15px 30px;
+	width: 500px
+}
+
+.nav {
+
+	text-align: right;
+}
+
+
+article {
+	background: lightblue;
+
+}
+
+p body {
+	font-family: "Indie Flower";
+	padding: inherit;
+}
+
+.content p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 12;
+	padding: inherit;
+}
+
+.foot {
+	font-family: 'Pacifico', cursive;
+	font-size: 5; 
+}
+.main p {
+	text-align: center;
+
+}
